@@ -4,7 +4,7 @@
     "contentApiKey": "5ac30c57c9590bcb23c78b169f"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ryangleason.ghost.io",
+    "contentApiKey": "753939867f153a0a23854852a6"
   }
 }
