@@ -4,7 +4,7 @@
     "contentApiKey": "5ac30c57c9590bcb23c78b169f"
   },
   "production": {
-    "apiUrl": "https://ryangleason.ghost.io",
-    "contentApiKey": "753939867f153a0a23854852a6"
+    "apiUrl": "https://gleasongroup.io/blog",
+    "contentApiKey": "61e505909fb2bf4243da1ed42a"
   }
 }
